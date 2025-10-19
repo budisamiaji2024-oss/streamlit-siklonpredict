@@ -1,9 +1,10 @@
 numpy
 matplotlib
-xgboost a
+xgboost 
 lightgbm
 streamlit
 tkinter
 pandas
 scikit-learn
+
  
