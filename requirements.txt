@@ -3,10 +3,11 @@ numpy
 matplotlib
 xgboost 
 lightgbm
-tkinter
+tk
 pandas
 scikit-learn
 
 
  
+
 
